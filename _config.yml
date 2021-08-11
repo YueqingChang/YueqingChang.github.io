@@ -24,7 +24,8 @@ email: yueqing2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Yueqing is currently a PhD student in Physics at University of Illinois at Urbana-Champaign. This is her research website.
 baseurl: "" # the subpath of your site, e.g. /blog
-home_url: "https://github.com/YueqingChang/YueqingChang.github.io"
+url: YueqingChang.github.io
+baseurl: /YueqingChang.github.io
 twitter_username: 
 github_username:  YueqingChang
 
