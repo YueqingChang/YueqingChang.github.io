@@ -22,6 +22,11 @@ This enables us to disentangle the multiple mechanisms underlying the formation 
 
 #### Derive effective Hamiltonians for the dimerization of Hydrogen chains using correlated many-body wave function methods
 
+To perform the density-matrix downfolding method (DMD-QMC) for a more complicated realistic material, it is important to make sure we understand the details of the sampling of the Hilbert space, justify that the compression of the Hamiltonian is reasonable. 
+This motivates the benchmark project of performing DMD-QMC for Hydrogen chains. 
+
+We would like to derive simplified model Hamiltonians with the following form,
+
 
 
 
