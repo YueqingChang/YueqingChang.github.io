@@ -27,7 +27,7 @@ This motivates the benchmark project of performing DMD-QMC for Hydrogen chains.
 
 We would like to derive simplified model Hamiltonians with the following form,
 
-
+\\[ H_{eff} = \sum_{<i,j>} t_{ij} c^{\dagger}_i c_j \\]
 
 
 
