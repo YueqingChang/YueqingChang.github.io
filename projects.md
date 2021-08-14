@@ -25,9 +25,19 @@ This enables us to disentangle the multiple mechanisms underlying the formation 
 To perform the density-matrix downfolding method (DMD-QMC) for a more complicated realistic material, it is important to make sure we understand the details of the sampling of the Hilbert space, justify that the compression of the Hamiltonian is reasonable. 
 This motivates the benchmark project of performing DMD-QMC for Hydrogen chains. 
 
-We would like to derive simplified model Hamiltonians with the following form,
+The DMD-QMC workflow goes as follows:
+- Sample the low-$$E$$ subspace: choose the sub-Hilbert space that we want to model and generate sampled wave functions on this linear space.
+- Compress the full Hamiltonian to a model Hamiltonian. Use the QMC data on these sampled wave functions to derive the parameters in the model.  
 
-\\[ H_{eff} = \sum_{<i,j>} t_{ij} c^{\dagger}_i c_j \\]
+We would like to derive simplified model Hamiltonians with the following Hubbard form,
+
+$$ \begin{aligned}
+&H_{\text {eff }}=E_{\text {lattice }}(\tau)+\sum_{\text {intra }(i, j\rangle} t_{\text {intra, } i j}(\tau)\left\langle c_{i}^{\dagger}(\tau) c_{j}(\tau)+c_{j}^{\dagger}(\tau) c_{i}(\tau)\right\rangle \\
+&+\sum_{\text {inter }\langle i, j\rangle} t_{\text {inter }, i j}(\tau)\left\langle c_{i}^{\dagger} c_{j}+c_{j}^{\dagger} c_{i}\right\rangle+\sum_{i} U(\tau)\left(n_{i \uparrow}(\tau) n_{i l}(\tau)\right\rangle.
+\end{aligned} $$
+
+This is a simple Hubbard model with alternating hoppings. 
+For smaller bond lengths, including the next-nearest neighbor hoppings can greatly improve the model. 
 
 
 

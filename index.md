@@ -12,7 +12,7 @@ layout: default
 
 
 #### Publications:
-  1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2M</sub>, [arXiv:2011.10096](https://arxiv.org/abs/2011.10096).
+  1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [arXiv:2011.10096](https://arxiv.org/abs/2011.10096).
   2. Yueqing Chang, Lucas K. Wagner, Effective spin-orbit models using correlated first-principles wave functions, [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195).
 
 #### Teaching and mentoring:
