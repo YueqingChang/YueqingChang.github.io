@@ -29,15 +29,19 @@ The DMD-QMC workflow goes as follows:
 - Sample the low-$$E$$ subspace: choose the sub-Hilbert space that we want to model and generate sampled wave functions on this linear space.
 - Compress the full Hamiltonian to a model Hamiltonian. Use the QMC data on these sampled wave functions to derive the parameters in the model.  
 
-We would like to derive simplified model Hamiltonians with the following Hubbard form,
+We would like to derive simplified model Hamiltonians with the following Hubbard form, where $$\tau$$ denotes the atomic displacement from the equally-spaced configuration,
 
 $$ \begin{aligned}
 &H_{\text {eff }}=E_{\text {lattice }}(\tau)+\sum_{\text {intra }(i, j\rangle} t_{\text {intra, } i j}(\tau)\left\langle c_{i}^{\dagger}(\tau) c_{j}(\tau)+c_{j}^{\dagger}(\tau) c_{i}(\tau)\right\rangle \\
-&+\sum_{\text {inter }\langle i, j\rangle} t_{\text {inter }, i j}(\tau)\left\langle c_{i}^{\dagger} c_{j}+c_{j}^{\dagger} c_{i}\right\rangle+\sum_{i} U(\tau)\left(n_{i \uparrow}(\tau) n_{i l}(\tau)\right\rangle.
+&+\sum_{\text {inter }\langle i, j\rangle} t_{\text {inter }, i j}(\tau)\left\langle c_{i}^{\dagger}(\tau) c_{j}(\tau)+c_{j}^{\dagger}(\tau) c_{i}(\tau)\right\rangle+\sum_{i} U(\tau)\left(n_{i \uparrow}(\tau) n_{i \downarrow}(\tau)\right\rangle.
 \end{aligned} $$
 
 This is a simple Hubbard model with alternating hoppings. 
 For smaller bond lengths, including the next-nearest neighbor hoppings can greatly improve the model. 
+
+The DMD framework can be easily combined with other highly accurate first-principles methods. 
+Within this framework, we can treat the non-interacting and interacting terms in the model Hamiltonian, as well as the spin-orbit interaction (see [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195)) all on the same footing.
+
 
 
 
