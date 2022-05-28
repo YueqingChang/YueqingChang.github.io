@@ -19,13 +19,13 @@ layout: default
   1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
      2022 Workshop on Recent Developments in Electronic Structure, Columbia Univeristy, June 2022. 
   2. Derivation of model Hamiltonians using quantum Monte Carlo,
-     Quantum Monte Carlo Workshop 2021, virtual (https://www.youtube.com/watch?v=DtU70-_7-dU&t=4s).   
+     Quantum Monte Carlo Workshop 2021, virtual. [View talk online](https://www.youtube.com/watch?v=DtU70-_7-dU&t=4s).   
      
 #### Contributed talks:
   1. Effective models derived for the hydrogen chain using correlated many-body wave functions,
-     APS March Meeting 2022, Chicago (https://meetings.aps.org/Meeting/MAR22/Session/D49.11). 
+     APS March Meeting 2022, Chicago, [D49.00011](https://meetings.aps.org/Meeting/MAR22/Session/D49.11). 
   2. Z-dependent spin-momentum locking in monolayer 1T'-WTe<sub>2</sub>,
-     APS March Meeting 2021, virtual (https://meetings.aps.org/Meeting/MAR21/Session/R45.10).
+     APS March Meeting 2021, virtual, [R45.00010](https://meetings.aps.org/Meeting/MAR21/Session/R45.10).
   3. Effective spin-orbit models using correlated wave functions,
      TSRC, Stochastic Methods in Electronic Structure Theory Workshop, June 2019, Telluride.
 
