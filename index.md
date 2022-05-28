@@ -30,12 +30,12 @@ layout: default
      TSRC, Stochastic Methods in Electronic Structure Theory Workshop, June 2019, Telluride.
 
 #### Teaching and mentoring:
-  - Phys 213, 214 (undergrad quantum and thermal physics)
-  - Phys 101 (unversity mech & heat)
-  - Mentor in the high school research program at UIUC, Summer 2019
+  - Phys 213, 214 (undergrad quantum and thermal physics).
+  - Phys 101 (unversity mech & heat).
+  - Mentor in the high school research program at UIUC, Summer 2019.
 
 #### Honors and Awards:
   - Excellent Teaching Assistant (Outstanding), Spring 2019, University of Illinos at Urbana Champaign.
   - Scott Anderson Award for graduate student, Spring 2018, University of Illinos at Urbana Champaign.
   - Award for outstanding graduates, Spring 2016, Wuhan University.
-  - Scholarship under the State Scholarship Fund, Spring 2014, China Scholarship Council
+  - Scholarship under the State Scholarship Fund, Spring 2014, China Scholarship Council.
