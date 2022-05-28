@@ -12,8 +12,22 @@ layout: default
 
 
 #### Publications:
-  1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [arXiv:2011.10096](https://arxiv.org/abs/2011.10096).
+  1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x).
   2. Yueqing Chang, Lucas K. Wagner, Effective spin-orbit models using correlated first-principles wave functions, [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195).
+
+#### Invited talks:
+  1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
+     2022 Workshop on Recent Developments in Electronic Structure, Columbia Univeristy, June 2022. 
+  2. Derivation of model Hamiltonians using quantum Monte Carlo,
+     Quantum Monte Carlo Workshop 2021, virtual (https://www.youtube.com/watch?v=DtU70-_7-dU&t=4s).   
+     
+#### Contributed talks:
+  1. Effective models derived for the hydrogen chain using correlated many-body wave functions,
+     APS March Meeting 2022, Chicago (https://meetings.aps.org/Meeting/MAR22/Session/D49.11). 
+  2. Z-dependent spin-momentum locking in monolayer 1T'-WTe<sub>2</sub>,
+     APS March Meeting 2021, virtual (https://meetings.aps.org/Meeting/MAR21/Session/R45.10).
+  3. Effective spin-orbit models using correlated wave functions,
+     TSRC, Stochastic Methods in Electronic Structure Theory Workshop, June 2019, Telluride.
 
 #### Teaching and mentoring:
   - Phys 213, 214 (undergrad quantum and thermal physics)
