@@ -29,6 +29,9 @@ layout: default
   3. Effective spin-orbit models using correlated wave functions,
      TSRC, Stochastic Methods in Electronic Structure Theory Workshop, June 2019, Telluride.
 
+#### Outreach:
+  Downfolding School, 2022 Spring [Github repo](https://github.com/WagnerGroup/downfolding_school).
+
 #### Teaching and mentoring:
   - Phys 213, 214 (undergrad quantum and thermal physics).
   - Phys 101 (unversity mech & heat).
