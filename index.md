@@ -30,7 +30,7 @@ layout: default
      TSRC, Stochastic Methods in Electronic Structure Theory Workshop, June 2019, Telluride.
 
 #### Outreach:
-  Downfolding School, 2022 Spring [Github repo](https://github.com/WagnerGroup/downfolding_school).
+  - Downfolding School, a series of talks and tutorials for teaching basics in downfolding effective models, 2022 Spring, [Github repo](https://github.com/WagnerGroup/downfolding_school).
 
 #### Teaching and mentoring:
   - Phys 213, 214 (undergrad quantum and thermal physics).
