@@ -6,6 +6,57 @@ permalink: /research/
 
 ### Research projects
 
+#### Effective spin-orbit models using correlated first-principles wave functions 
+
+[Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195)
+
+Yueqing Chang and Lucas K. Wagner
+
+Diffusion Monte Carlo using continuous real-space wave functions is one of the most accurate scalable manybody methods for solid-state systems. 
+However, to date, spin-orbit interactions have not been incorporated into large-scale calculations at a first-principles level, only having been applied to small systems. 
+In this technique, we use explicitly correlated first-principles diffusion Monte Carlo calculations to derive an effective spin-orbit model Hamiltonian. 
+The simplified model Hamiltonian is then solved to obtain the energetics of the system. 
+To demonstrate this method, benchmark studies are performed in main-group atoms and monolayer tungsten disulfide, where high accuracy is obtained.
+
+
+#### Nanoscale studies of electric field effects on monolayer 1T'-WTe<sub>2</sub>
+
+[npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x)
+
+Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan
+
+Monolayer 1T'-WTe<sub>2</sub> is a quantum spin Hall insulator with a well-defined bulk gap and helical edge states. 
+It has been predicted to undergo a topological phase transition upon breaking the inversion symmetry with gating [1]. 
+Recent scanning tunneling microscopy (STM) experiments by Maximenko et. al. have found a surprising linear dependence of the gap on gating voltage. 
+We use first principles to study the electronic structure of monolayer 1T'-WTe<sub>2</sub> with the effect of gating, using a tight-binding model derived from the Wannierised Kohn-Sham orbitals computed from density functional theory. 
+We find that the top and bottom surfaces of the monolayer 1T'-WTe<sub>2</sub> exhibit opposite spin-momentum locking properties. 
+This effect causes the STM measured gap to show a linear response upon gating.
+
+References:
+[1] X. Qian, J. Liu, L. Fu, J. Li, Science 346.6215 (2014). 
+
+
+Monolayer 1 T′-WTe2 is a quantum spin Hall insulator with a gapped 2D-bulk and gapless helical edge states persisting to temperatures ~100 K. Despite the far-ranging interest, the magnitude of the bulk gap, the effect of gating on the 2D-band structure, as well the role interactions are not established. In this work we use STM spectroscopy to measure the intrinsic bulk gap of monolayer 1 T′-WTe2 and show that gate induced electric fields cause large changes of the gap magnitude. Our first-principles DFTderived tight-binding model reveal that a combination of spatial localization of the conduction and valance bands and Rashba-like spin-orbit coupling leads to a gating induced spin-splitting of the 2D-bulk bands in the tens of meV, thereby reducing the band gap. Our work explains the large sensitivity of the band structure to electric fields and suggests a new avenue for realizing proximity induced non-trivial superconductivity in monolayer 1 T′-WTe2.
+
+#### Minimal effective models from first principles for hydrogen chains in the strongly correlated regime
+
+One powerful application of first-principles calculations is to provide effective low-energy descriptions of materials (downfolding). 
+This downfolding is commonly done by assuming a given model, then estimating the model parameters using first-principles results. 
+Examples include computing $J$s using different spin orders, the cRPA-based approaches in which a particular subspace and interaction formulation are chosen, and modifying DFT band structures with interactions. 
+While they can be successful, these approaches are not systematically improvable.
+
+The density matrix downfolding (DMD) approach was proposed [1,2] to resolve this issue. 
+DMD treats the non-interacting and interacting terms all on the same footing. It allows one to systematically improve the downfolded Hamiltonians using more accurate approximations to the Hilbert space, and better parameterizations of the Hamiltonians. 
+In this study, we apply DMD to hydrogen chains in the strongly correlated regime. 
+Specifically, we show that DMD naturally selects the only relevant parameters in the model for the chosen Hilbert space, with all the parameters renormalized from the bare long-range values. 
+For the hydrogen chains, we show that the minimal effective model on a low-energy Hilbert space spanned by the first few spin-like excitations is a Heisenberg model. 
+The minimal model becomes a single-band Hubbard model when extending the Hilbert space to include the charge excitations.
+
+References:
+[1] H. J. Changlani, H. Zheng, and L. K. Wagner, J. Chem. Phys. 143, 102814 (2015).
+[2] H. Zheng et. al., Front. Phys. 6, 43 (2018).
+
+
 #### Electron-phonon coupled effective Hamiltonians derived using correlated many-body wave function methods
 
 In some low dimensional meterials, interaction with the collective motion of the atoms leads to a type of ground state called charge density wave, where certain distortions of the lattice are allowed upon lowering temperature.
@@ -18,30 +69,3 @@ How the energy drop is contributed by electron-phonon coupling and exciton conde
 With density-matrix downfolding method based on quantum Monte Carlo calculations, we can derive a model Hamiltonian for 1T-TiSe<sub>2</sub>, both normal and CDW phases.
 This enables us to disentangle the multiple mechanisms underlying the formation of CDW, by attributing the energy drop to the corresponding terms in the Hamiltonian.
  
-
-
-#### Derive effective Hamiltonians for the dimerization of Hydrogen chains using correlated many-body wave function methods
-
-To perform the density-matrix downfolding method (DMD-QMC) for a more complicated realistic material, it is important to make sure we understand the details of the sampling of the Hilbert space, justify that the compression of the Hamiltonian is reasonable. 
-This motivates the benchmark project of performing DMD-QMC for Hydrogen chains. 
-
-The DMD-QMC workflow goes as follows:
-- Sample the low-$$E$$ subspace: choose the sub-Hilbert space that we want to model and generate sampled wave functions on this linear space.
-- Compress the full Hamiltonian to a model Hamiltonian. Use the QMC data on these sampled wave functions to derive the parameters in the model.  
-
-We would like to derive simplified model Hamiltonians with the following Hubbard form, where $$\tau$$ denotes the atomic displacement from the equally-spaced configuration,
-
-$$ \begin{aligned}
-&H_{\text {eff }}=E_{\text {lattice }}(\tau)+\sum_{\text {intra }(i, j\rangle} t_{\text {intra, } i j}(\tau)\left\langle c_{i}^{\dagger}(\tau) c_{j}(\tau)+c_{j}^{\dagger}(\tau) c_{i}(\tau)\right\rangle \\
-&+\sum_{\text {inter }\langle i, j\rangle} t_{\text {inter }, i j}(\tau)\left\langle c_{i}^{\dagger}(\tau) c_{j}(\tau)+c_{j}^{\dagger}(\tau) c_{i}(\tau)\right\rangle+\sum_{i} U(\tau)\left(n_{i \uparrow}(\tau) n_{i \downarrow}(\tau)\right\rangle.
-\end{aligned} $$
-
-This is a simple Hubbard model with alternating hoppings. 
-For smaller bond lengths, including the next-nearest neighbor hoppings can greatly improve the model. 
-
-The DMD framework can be easily combined with other highly accurate first-principles methods. 
-Within this framework, we can treat the non-interacting and interacting terms in the model Hamiltonian, as well as the spin-orbit interaction (see [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195)) all on the same footing.
-
-
-
-
