@@ -36,13 +36,11 @@ References:
 [1] X. Qian, J. Liu, L. Fu, J. Li, Science 346.6215 (2014). 
 
 
-Monolayer 1 T′-WTe2 is a quantum spin Hall insulator with a gapped 2D-bulk and gapless helical edge states persisting to temperatures ~100 K. Despite the far-ranging interest, the magnitude of the bulk gap, the effect of gating on the 2D-band structure, as well the role interactions are not established. In this work we use STM spectroscopy to measure the intrinsic bulk gap of monolayer 1 T′-WTe2 and show that gate induced electric fields cause large changes of the gap magnitude. Our first-principles DFTderived tight-binding model reveal that a combination of spatial localization of the conduction and valance bands and Rashba-like spin-orbit coupling leads to a gating induced spin-splitting of the 2D-bulk bands in the tens of meV, thereby reducing the band gap. Our work explains the large sensitivity of the band structure to electric fields and suggests a new avenue for realizing proximity induced non-trivial superconductivity in monolayer 1 T′-WTe2.
-
 #### Minimal effective models from first principles for hydrogen chains in the strongly correlated regime
 
 One powerful application of first-principles calculations is to provide effective low-energy descriptions of materials (downfolding). 
 This downfolding is commonly done by assuming a given model, then estimating the model parameters using first-principles results. 
-Examples include computing $J$s using different spin orders, the cRPA-based approaches in which a particular subspace and interaction formulation are chosen, and modifying DFT band structures with interactions. 
+Examples include computing J using different spin orders, the cRPA-based approaches in which a particular subspace and interaction formulation are chosen, and modifying DFT band structures with interactions. 
 While they can be successful, these approaches are not systematically improvable.
 
 The density matrix downfolding (DMD) approach was proposed [1,2] to resolve this issue. 
