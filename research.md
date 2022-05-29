@@ -33,6 +33,7 @@ We find that the top and bottom surfaces of the monolayer 1T'-WTe<sub>2</sub> ex
 This effect causes the STM measured gap to show a linear response upon gating.
 
 References:
+
 [1] X. Qian, J. Liu, L. Fu, J. Li, Science 346.6215 (2014). 
 
 
@@ -51,7 +52,9 @@ For the hydrogen chains, we show that the minimal effective model on a low-energ
 The minimal model becomes a single-band Hubbard model when extending the Hilbert space to include the charge excitations.
 
 References:
+
 [1] H. J. Changlani, H. Zheng, and L. K. Wagner, J. Chem. Phys. 143, 102814 (2015).
+
 [2] H. Zheng et. al., Front. Phys. 6, 43 (2018).
 
 
