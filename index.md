@@ -17,7 +17,7 @@ layout: default
 
 #### Invited talks:
   1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
-     2022 Workshop on Recent Developments in Electronic Structure, Columbia Univeristy, June 2022. 
+     [2022 Workshop on Recent Developments in Electronic Structure](https://www.apam.columbia.edu/international-workshop-recent-developments-electronic-structure-es22-1), Columbia Univeristy, June 2022. [View talk online](https://www.youtube.com/watch?v=r5WT8sGkfrk&t=4029s). 
   2. Derivation of model Hamiltonians using quantum Monte Carlo,
      Quantum Monte Carlo Workshop 2021, virtual. [View talk online](https://www.youtube.com/watch?v=DtU70-_7-dU&t=4s).   
      
