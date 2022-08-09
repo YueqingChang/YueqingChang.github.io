@@ -15,6 +15,9 @@ layout: default
   1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x).
   2. Yueqing Chang, Lucas K. Wagner, Effective spin-orbit models using correlated first-principles wave functions, [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195).
 
+#### Preprints:
+  1. Shunyue Yuan, Yueqing Chang, Lucas K. Wagner, Quantification of electron correlation for approximate quantum calculations, [arXiv:2208.03189](https://arxiv.org/abs/2208.03189).
+
 #### Invited talks:
   1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
      [2022 Workshop on Recent Developments in Electronic Structure](https://www.apam.columbia.edu/international-workshop-recent-developments-electronic-structure-es22-1), Columbia Univeristy, June 2022. [View talk online](https://www.youtube.com/watch?v=r5WT8sGkfrk&t=4029s). 
