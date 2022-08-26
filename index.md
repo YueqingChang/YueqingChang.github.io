@@ -5,11 +5,13 @@
 layout: default
 ---
 
+#### Appointment:
+  - Abrahams Postdoctoral Fellow, Rutgers University, NJ, 9/2022-present
+
 #### Education:
-  - Ph.D. candidate in Physics, University of Illinoist at Urbana-Champaign, IL, 8/2016-present
+  - Ph.D. in Physics, University of Illinoist at Urbana-Champaign, IL, 8/2016-8/2022
   - B.S. in Physics, Wuhan University, Wuhan, China, 6/2016
   - Visiting student, Duke University, NC, 8/2014-12/2014
-
 
 #### Publications:
   1. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x).
