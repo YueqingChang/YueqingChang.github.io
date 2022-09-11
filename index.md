@@ -9,7 +9,7 @@ layout: default
   - Abrahams Postdoctoral Fellow, Rutgers University, NJ, 9/2022-
 
 #### Education:
-  - Ph.D. in Physics, University of Illinoist at Urbana-Champaign, IL, 8/2022
+  - Ph.D. in Physics, University of Illinois at Urbana-Champaign, IL, 8/2022
   - B.S. in Physics, Wuhan University, Wuhan, China, 6/2016
   - Visiting student, Duke University, NC, 8/2014-12/2014
 
