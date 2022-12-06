@@ -19,6 +19,7 @@ layout: default
   3. Yueqing Chang, Lucas K. Wagner, Effective spin-orbit models using correlated first-principles wave functions, [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195).
 
 #### Preprints:
+  1. William A. Wheeler, Shivesh Pathak, Kevin Kleiner, Shunyue Yuan, Jo\~ao N. B. Rodrigues, Cooper Lorsung, Kittithat Krongchon, Yueqing Chang, Yiqing Zhou, Brian Busemeyer, Kiel T. Williams, Alexander Mu\~noz, Chun Yu Chow, Lucas K. Wagner, PyQMC: an all-Python real-space quantum Monte Carlo module in PySCF, [arXiv:2212.01482](https://doi.org/10.48550/arXiv.2212.01482).
 
 #### Invited talks:
   1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
