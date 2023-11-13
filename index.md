@@ -14,7 +14,7 @@ layout: default
   - Visiting student, Duke University, NC, 8/2014-12/2014
 
 #### Publications:
-  1. William A. Wheeler, Shivesh Pathak, Kevin Kleiner, Shunyue Yuan, João N. B. Rodrigues, Cooper Lorsung, Kittithat Krongchon, Yueqing Chang, Yiqing Zhou, Brian Busemeyer, Kiel T. Williams, Alexander Muñoz, Chun Yu Chow, Lucas K. Wagner, PyQMC: an all-Python real-space quantum Monte Carlo module in PySCF, [J. Chem. Phys. 158, 114801 (2023)] (https://doi.org/10.1063/5.0139024).
+  1. William A. Wheeler, Shivesh Pathak, Kevin Kleiner, Shunyue Yuan, João N. B. Rodrigues, Cooper Lorsung, Kittithat Krongchon, Yueqing Chang, Yiqing Zhou, Brian Busemeyer, Kiel T. Williams, Alexander Muñoz, Chun Yu Chow, Lucas K. Wagner, PyQMC: an all-Python real-space quantum Monte Carlo module in PySCF, [J. Chem. Phys. 158, 114801 (2023)](https://doi.org/10.1063/5.0139024).
   2. Shunyue Yuan, Yueqing Chang, Lucas K. Wagner, Quantification of electron correlation for approximate quantum calculations, [J. Chem. Phys. 157, 194101 (2022)](https://aip.scitation.org/doi/10.1063/5.0119260).
   3. Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan, Electric field effects on the band gap and edge states of monolayer 1T’-WTe<sub>2</sub>, [npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x).
   4. Yueqing Chang, Lucas K. Wagner, Effective spin-orbit models using correlated first-principles wave functions, [Phys. Rev. Research 2, 013195 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013195).
