@@ -21,8 +21,9 @@ layout: default
 
 
 #### Preprints:
-  1. Yueqing Chang, Erik G. C. P. van Loon, Brandon Eskridge, Brian Busemeyer, Miguel A. Morales, Cyrus E. Dreyer, Andrew J. Millis, Shiwei Zhang, Tim O. Wehling, Lucas K. Wagner, Malte Rösner, Downfolding from Ab Initio to Interacting Model Hamiltonians: Comprehensive Analysis and Benchmarking, [arXiv:2311.05987](https://arxiv.org/abs/2311.05987).
-  2. Yueqing Chang, Lucas K. Wagner, Learning emergent models from _ab_ _initio_ many-body calculations, [arXiv:2302.02899](https://arxiv.org/abs/2302.02899).
+  1. Yueqing Chang, Jinjing Yi, Ang-Kun Wu, Fabian B. Kugler, Eva Y. Andrei, David Vanderbilt, Gabriel Kotliar, and J. H. Pixley, Vacancy-induced tunable Kondo effect in twisted bilayer graphene, [arXiv:2312.09286](https://arxiv.org/abs/2312.09286).
+  2. Yueqing Chang, Erik G. C. P. van Loon, Brandon Eskridge, Brian Busemeyer, Miguel A. Morales, Cyrus E. Dreyer, Andrew J. Millis, Shiwei Zhang, Tim O. Wehling, Lucas K. Wagner, Malte Rösner, Downfolding from Ab Initio to Interacting Model Hamiltonians: Comprehensive Analysis and Benchmarking, [arXiv:2311.05987](https://arxiv.org/abs/2311.05987).
+  3. Yueqing Chang, Lucas K. Wagner, Learning emergent models from _ab_ _initio_ many-body calculations, [arXiv:2302.02899](https://arxiv.org/abs/2302.02899).
  
 
 #### Invited talks:
