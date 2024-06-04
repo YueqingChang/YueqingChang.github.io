@@ -7,6 +7,7 @@ layout: default
 
 #### Present appointment:
   - Abrahams Postdoctoral Fellow, Rutgers University, NJ, 9/2022-
+  - Guest Researcher, Center for Computational Quantum Physics, Flatiron Insitute, NYC, 5/2024-
 
 #### Education:
   - Ph.D. in Physics, University of Illinois at Urbana-Champaign, IL, 8/2022
@@ -27,9 +28,10 @@ layout: default
  
 
 #### Invited talks:
-  1. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
+  1. Real-space quantum Monte Carlo for downfolding: benchmarking DFT+cRPA and deriving effective interacting models, QMC group meeting at CCQ, NYC, April 2024.
+  2. Minimal effective models from first principles for hydrogen chains in the strongly correlated regime,
      [2022 Workshop on Recent Developments in Electronic Structure](https://www.apam.columbia.edu/international-workshop-recent-developments-electronic-structure-es22-1), Columbia Univeristy, June 2022. [View talk online](https://www.youtube.com/watch?v=r5WT8sGkfrk&t=4029s). 
-  2. Derivation of model Hamiltonians using quantum Monte Carlo,
+  3. Derivation of model Hamiltonians using quantum Monte Carlo,
      Quantum Monte Carlo Workshop 2021, virtual. [View talk online](https://www.youtube.com/watch?v=DtU70-_7-dU&t=4s).   
      
 #### Contributed talks:
