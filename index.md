@@ -6,7 +6,7 @@ layout: default
 ---
 
 #### Present appointment:
-  - Abrahams Postdoctoral Fellow, Rutgers University, NJ, 9/2022-
+  - Abrahams Postdoctoral Fellow, Rutgers University, NJ, 9/2022-9/2025
   - Guest Researcher, Center for Computational Quantum Physics, Flatiron Insitute, NYC, 5/2024-
 
 #### Education:
@@ -55,4 +55,3 @@ layout: default
   - Excellent Teaching Assistant (Outstanding), Spring 2019, University of Illinos at Urbana Champaign.
   - Scott Anderson Award for graduate student, Spring 2018, University of Illinos at Urbana Champaign.
   - Award for outstanding graduates, Spring 2016, Wuhan University.
-  - Scholarship under the State Scholarship Fund, Spring 2014, China Scholarship Council.
